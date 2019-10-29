@@ -1,0 +1,11 @@
+    IPUSH 5
+    IPUSH 4
+    DUMP
+    IPOW
+    DUMP
+
+    FPUSH 5.333
+    FPUSH 6.723423424
+    FPOW
+    DUMP
+

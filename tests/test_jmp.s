@@ -1,0 +1,7 @@
+    IPUSH 1
+    DUMP
+    JMP TEST
+    IPUSH 3
+TEST:
+    IPUSH 2
+    DUMP

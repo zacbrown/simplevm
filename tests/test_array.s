@@ -1,0 +1,15 @@
+    IPUSH 5
+    IPUSH 6
+    FPUSH 7.223
+    IPUSH 2
+    FPUSH 3.1492
+    IPUSH 5
+    DUMP
+    ARRAY
+    DUMP
+    IPUSH 1
+    ARRIND
+    DUMP
+    DROP
+    ARRLEN
+    DUMP
